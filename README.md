@@ -12,3 +12,17 @@ Given a string and a number k, find the k-th non-repeating character in the stri
 Input : str = “Automated Feature Engineering in Python”, k = 3
 
 Output : Excel
+
+
+
+
+
+2) Vowel Count :
+
+    Given a text file, read the text file and for each word present in the text file find the count of vowels (a,e,i,o,u) and consonant count. Construct a Dataframe and save it as an excel file.
+
+Example :
+
+Input : str = “Automated Feature Engineering in Python”
+
+Output : Dataframe
